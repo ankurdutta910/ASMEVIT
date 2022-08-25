@@ -1,0 +1,57 @@
+.navbar{
+  margin-top: 1vh;
+  padding: 0;
+  background-color: #232423;
+
+}
+
+@media (max-width: 570px) {
+  .navbar{
+ margin-top: 0;
+    background-color: #0094e3;
+  
+  }
+
+}
+
+
+.navbar .logo {
+  overflow: hidden;
+  margin-left: -13px;
+  padding: 16px 30px 12px 30px;
+  background: #0094e3;
+}
+
+.navbar .logo h1 {
+  font-size: 26px;
+  padding: 0;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar .logo h1 a, .navbar .logo h1 a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.nav-item{
+  margin-right: 8px;
+
+}
+
+
+
+#loginbtn{
+  background-color: #0094e3;
+  border-radius: 15px;
+  padding: 0 20px 0 20px;
+ 
+}
+
+#loginbtn a{
+color: #fff;
+font-weight: bold;
+ 
+}
+
