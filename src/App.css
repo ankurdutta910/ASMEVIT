@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+	color: #444444;
+
+   }
+
+a {
+  color: #0094e3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1da3ec;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif, monospace;
+}
+
+   /*Scrollbar*/
+   /* width */
+   ::-webkit-scrollbar {
+    display: none;
+    
+  }
